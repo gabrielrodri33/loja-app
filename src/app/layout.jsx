@@ -1,4 +1,3 @@
-import Link from "next/link";
 import "./globals.css";
 import { Inter } from "next/font/google";
 import Cabecalho from "@/components/Cabecalho/Cabecalho";
